@@ -35,7 +35,7 @@ Interests and requirements of the working group.
 
 A section guiding the user on how to join the working group.
 
-- Link to the Agenda/Meeting-Minutes document
+- Link to the [Agenda/Meeting-Minutes](https://unomail-my.sharepoint.com/:w:/r/personal/mgermonprez_unomaha_edu/_layouts/15/doc2.aspx?sourcedoc=%7B47768d3a-3199-4991-b9d6-ab3d921bb6ca%7D&action=edit&cid=6bec1253-3e8a-4504-91a5-fd2bbbc3ea7f) document
 - Link to the [Participate](https://chaoss.community/participate/) page on the website
 
 Link to [Code of Conduct](https://github.com/chaoss/governance/blob/master/code-of-conduct.md)
@@ -50,10 +50,12 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
 
 Focus Area | Goal
 --- | ---
-[Focus Area 1](focus-areas/focus-area-1) | 
-[Focus Area 2](focus-areas/focus-area-2) | 
-[Focus Area 3](focus-areas/focus-area-3) | 
-[Focus Area 4](focus-areas/focus-area-4) | 
+[Operations](focus-areas/focus-area-operations) | Metrics models that could be used in operations |
+[Governance](focus-areas/focus-area-governance) | Metrics models that could be used in governance |
+[Development](focus-areas/focus-area-development) | Metrics models that could be used in development |
+[Community Engagement](focus-areas/focus-area-community-engagement) | Metrics models that could be used in community engagement |
+[Infrastructure](focus-areas/focus-area-infrastructure) | Metrics models that could be used in infrastructure |
+[Scientific and Academic](focus-areas/focus-area-scientific-academic) | Metrics models that could be used in scientific and academic settings |
 
 ### Released Metrics
 A section guiding the user to the released metrics.
@@ -68,8 +70,9 @@ Link to the [translations](https://github.com/chaoss/translations) repository.
 
 List containing names of contact persons (linked to their Github profiles) for the working group.
 
-- 
-- 
+- Yehui Wang
+- Matt Germonprez 
+- Kevin Lumbard
 
 ### Amazing CHAOSS Project Contributors
 

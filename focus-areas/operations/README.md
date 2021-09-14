@@ -2,6 +2,6 @@
 
 **Goal:** 
 
-| Metric | Question |
+| Metrics Models | Question |
 | --- | --- |
 | [MetricModelName](metric-model.md)| Why you care |

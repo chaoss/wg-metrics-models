@@ -2,7 +2,7 @@
 
 ## Why You Should Care
 
-Provide text here to explain to a reader why they should care about the metrics model. This description should be 1-2 sentences. 
+Provide text here to explain to a reader why they should care about this metrics model. This description should be 1-2 sentences about when you might use this metrics model. 
 
 ## Visual of the Metrics Model
 Use https://app.diagrams.net/ to design your figures. You can include the visual as an embedded image in this section 

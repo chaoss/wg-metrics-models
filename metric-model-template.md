@@ -10,7 +10,6 @@ Use https://app.diagrams.net/ to design your figures. You can include the visual
 ## Metrics in the Metrics Model 
 - Metric 1 (Link to metric on the CHAOSS website)
 - Metric 2 (Link to metric on the CHAOSS website)
-- And so on
 
 ## Resources
 - Resource 1

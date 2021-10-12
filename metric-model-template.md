@@ -13,5 +13,9 @@ Use https://app.diagrams.net/ to design your figures. You can include the visual
 - And so on
 
 ## Resources
+- Resource 1
+- Resource 2
 
 ## Contributors
+- Contributor 1
+- Contributor 2

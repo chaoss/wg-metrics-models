@@ -13,21 +13,15 @@
 
 ### Goals 
 
-The Goal of this working group is to develop models that include the integration of multiple CHAOSS metrics in a way that people would consume them in practice. 
-
-### Purpose
-
-Answers to why the working group was formed.
+The goal of this working group is to develop models that include the integration of multiple CHAOSS metrics in a way that people would consume them in practice. Individual CHAOSS metrics are not often useful alone, nor is the entire collection of CHAOSS metrics used all at once. Metrics models are meant to provide insights on open source community health as drawn from select metrics used in partiuclar contexts. 
 
 ### Who should join this working group?
 
-Interests and requirements of the working group.
+Anyone with an interst in buidling models from the broad array of CHAOSS metrics is welcome to join this working group. We have created focus-areas where metrics models will likely prove useful and we welcome your contriubtions in these existing (or new) focus areas. 
 
 ### Background
 
-- History of the working group
-- Name changes in past (if any)
-- Any other relevant past information
+The Metric Model working group started in August of 2021. 
   
 ## Participate
 
@@ -57,14 +51,9 @@ Focus Area | Goal
 [Infrastructure](focus-areas/infrastructure) | Metrics models that could be used in infrastructure |
 [Scientific and Academic](focus-areas/scientific-academic) | Metrics models that could be used in scientific and academic settings |
 
-### Released Metrics
-A section guiding the user to the released metrics.
+### Released Metrics Models 
 
-- Link to the [metrics](https://chaoss.community/metrics/) page on the website
-
-Link to the [translations](https://github.com/chaoss/translations) repository.
-
-## Contributors
+We have not released any metrics models to date. 
 
 ### Chairs
 

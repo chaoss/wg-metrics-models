@@ -1,4 +1,4 @@
-# CHAOSS wg-metrics-models Working Group
+# CHAOSS Metrics Model Working Group
 
 ## Table of Contents
 

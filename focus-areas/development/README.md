@@ -1,6 +1,6 @@
 ## Development
 
-**Goal:** 
+**The following reprsent combinations of CHAOSS metrics that are useful in development settings** 
 
 | Metric Model | Why You Should Care |
 | --- | --- |

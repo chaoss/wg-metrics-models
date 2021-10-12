@@ -5,8 +5,8 @@
 
 This metric model provides insights into requirement handling in the development process, helping to 
 - identify possible risks in the project
-- create profile of contributor 
-- evalute the project status 
+- create profiles of contributors 
+- evaluate the project status 
 
 ## Visual of the Metrics Model
 

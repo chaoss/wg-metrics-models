@@ -12,4 +12,6 @@ Use https://app.diagrams.net/ to design your figures. You can include the visual
 - Metric 2 (Link to metric on the CHAOSS website)
 - And so on
 
+## Resources
+
 ## Contributors

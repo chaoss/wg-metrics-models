@@ -50,12 +50,12 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
 
 Focus Area | Goal
 --- | ---
-[Operations](focus-areas/focus-area-operations) | Metrics models that could be used in operations |
-[Governance](focus-areas/focus-area-governance) | Metrics models that could be used in governance |
-[Development](focus-areas/focus-area-development) | Metrics models that could be used in development |
-[Community Engagement](focus-areas/focus-area-community-engagement) | Metrics models that could be used in community engagement |
-[Infrastructure](focus-areas/focus-area-infrastructure) | Metrics models that could be used in infrastructure |
-[Scientific and Academic](focus-areas/focus-area-scientific-academic) | Metrics models that could be used in scientific and academic settings |
+[Operations](focus-areas/operations) | Metrics models that could be used in operations |
+[Governance](focus-areas/governance) | Metrics models that could be used in governance |
+[Development](focus-areas/development) | Metrics models that could be used in development |
+[Community Engagement](focus-areas/community-engagement) | Metrics models that could be used in community engagement |
+[Infrastructure](focus-areas/infrastructure) | Metrics models that could be used in infrastructure |
+[Scientific and Academic](focus-areas/scientific-academic) | Metrics models that could be used in scientific and academic settings |
 
 ### Released Metrics
 A section guiding the user to the released metrics.

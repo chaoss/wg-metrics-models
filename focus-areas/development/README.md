@@ -4,4 +4,4 @@
 
 | Metric Model | Why You Care |
 | --- | --- |
-| [MetricModelName](metric-model.md)| Why you care |
+| [Issue Handling](metric-model-issue-handling.md)| Why you care |

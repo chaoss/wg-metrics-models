@@ -69,7 +69,7 @@ Link to [contributors](https://chaoss.community/metrics/#user-content-chaoss-con
 
 ## License
 
-See [LICENSE](LICENSE.md) file.
+See [LICENSE](LICENSE) file.
 
 Copyright © 2021 - CHAOSS, a Linux Foundation Project
 

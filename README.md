@@ -50,6 +50,8 @@ Focus Area | Goal
 [Community Engagement](focus-areas/community-engagement) | Metrics models that could be used in community engagement |
 [Infrastructure](focus-areas/infrastructure) | Metrics models that could be used in infrastructure |
 [Scientific and Academic](focus-areas/scientific-academic) | Metrics models that could be used in scientific and academic settings |
+[Infrastructure](focus-areas/sustainability) | Metrics models that could be used to evaluate sustainability |
+[Open Source Project Health 101](focus-areas/health-101) | Metrics models that could be used for baseline evaluation of community health |
 
 ### Released Metrics Models 
 

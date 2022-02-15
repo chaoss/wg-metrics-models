@@ -44,12 +44,15 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
 
 Focus Area | Goal
 --- | ---
-[Operations](focus-areas/operations) | Metrics models that could be used in operations |
-[Governance](focus-areas/governance) | Metrics models that could be used in governance |
-[Development](focus-areas/development) | Metrics models that could be used in development |
-[Community Engagement](focus-areas/community-engagement) | Metrics models that could be used in community engagement |
-[Infrastructure](focus-areas/infrastructure) | Metrics models that could be used in infrastructure |
+[Development](focus-areas/development) | Metrics models that could be used to understand project development |
+[Community Engagement](focus-areas/community-engagement) | Metrics models that could be used to understand community engagement |
+[Project Health 101](focus-areas/project-health-101) | Metrics models that could be used to understand your project at an entry level |
+[Sustainability](focus-areas/sustainability) | Metrics models that could be used to understand the long-term sustainability of your project|
 [Scientific and Academic](focus-areas/scientific-academic) | Metrics models that could be used in scientific and academic settings |
+[Operations](focus-areas/operations) | Metrics models that could be used to understant your project operations |
+[Governance](focus-areas/governance) | Metrics models that could be used to understand your project governance |
+
+[Infrastructure](focus-areas/infrastructure) | Metrics models that could be used in infrastructure |
 
 ### Released Metrics Models 
 
@@ -71,7 +74,7 @@ Link to [contributors](https://chaoss.community/metrics/#user-content-chaoss-con
 
 See [LICENSE](LICENSE) file.
 
-Copyright © 2021 - CHAOSS, a Linux Foundation Project
+Copyright © 2022 - CHAOSS, a Linux Foundation Project
 
 
  

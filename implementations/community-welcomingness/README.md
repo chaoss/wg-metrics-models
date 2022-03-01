@@ -8,4 +8,4 @@ The Jupyter Lab notebook included in this implementation should run, and generat
 3. Install the necessary libraries: `pip install -r requirements.txt`
 4. Start Jupyter Lab `jupyter lab`
 5. open the community-welcomingness.ipynb notebook. 
-6. 
+6. From the top, drop down text menu, select `Run` | `Run All Cells`

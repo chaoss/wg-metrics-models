@@ -29,7 +29,7 @@ The Metric Model working group started in August of 2021.
 
 A section guiding the user on how to join the working group.
 
-- Link to the [Agenda/Meeting-Minutes](https://unomail-my.sharepoint.com/:w:/r/personal/mgermonprez_unomaha_edu/_layouts/15/doc2.aspx?sourcedoc=%7B47768d3a-3199-4991-b9d6-ab3d921bb6ca%7D&action=edit&cid=6bec1253-3e8a-4504-91a5-fd2bbbc3ea7f) document
+- Link to the [Agenda/Meeting-Minutes](https://unomail-my.sharepoint.com/:w:/g/personal/mgermonprez_unomaha_edu/ETqNdkeZMZFJudarPZIbtsoB7YU3Oq4EAVOpoDycUge1-A?e=6IZyf0) document
 - Link to the [Participate](https://chaoss.community/participate/) page on the website
 
 Link to [Code of Conduct](https://github.com/chaoss/governance/blob/master/code-of-conduct.md)

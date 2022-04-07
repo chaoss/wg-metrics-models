@@ -51,7 +51,6 @@ Focus Area | Goal
 [Scientific and Academic](focus-areas/scientific-academic) | Metrics models that could be used in scientific and academic settings |
 [Operations](focus-areas/operations) | Metrics models that could be used to understant your project operations |
 [Governance](focus-areas/governance) | Metrics models that could be used to understand your project governance |
-
 [Infrastructure](focus-areas/infrastructure) | Metrics models that could be used in infrastructure |
 
 ### Released Metrics Models 

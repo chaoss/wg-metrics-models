@@ -10,7 +10,7 @@ This metric model provides insights into requirement handling in the development
 
 ## Visual of the Metrics Model
 
-![GrimoireLab Implementation](/images/issue-handling.drawio.svg)
+![GrimoireLab Implementation](images/issue-handling.drawio.svg)
 
 ## Metrics in the Metrics Model 
 - Common: [Types of Contributions](https://chaoss.community/metric-types-of-contributions/)

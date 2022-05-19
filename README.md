@@ -27,8 +27,6 @@ The Metric Model working group started in August of 2021.
 
 ### How to Join Us?
 
-A section guiding the user on how to join the working group.
-
 - Link to the [Agenda/Meeting-Minutes](https://unomail-my.sharepoint.com/:w:/g/personal/mgermonprez_unomaha_edu/ETqNdkeZMZFJudarPZIbtsoB7YU3Oq4EAVOpoDycUge1-A?e=6IZyf0) document
 - Link to the [Participate](https://chaoss.community/participate/) page on the website
 
@@ -38,32 +36,11 @@ Link to [Code of Conduct](https://github.com/chaoss/governance/blob/master/code-
 
 See the [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
 
-## Metrics
-
-### Focus-Areas and Goals
-
-Focus Area | Goal
---- | ---
-[Development](focus-areas/development) | Metrics models that could be used to understand project development |
-[Community Engagement](focus-areas/community-engagement) | Metrics models that could be used to understand community engagement |
-[Project Health 101](focus-areas/project-health-101) | Metrics models that could be used to understand your project at an entry level |
-[Sustainability](focus-areas/sustainability) | Metrics models that could be used to understand the long-term sustainability of your project|
-[Scientific and Academic](focus-areas/scientific-academic) | Metrics models that could be used in scientific and academic settings |
-[Operations](focus-areas/operations) | Metrics models that could be used to understant your project operations |
-[Governance](focus-areas/governance) | Metrics models that could be used to understand your project governance |
-
-[Infrastructure](focus-areas/infrastructure) | Metrics models that could be used in infrastructure |
-
-### Released Metrics Models 
-
-We have not released any metrics models to date. 
-
-### Chairs
-
-List containing names of contact persons (linked to their Github profiles) for the working group.
+### Maintainers
 
 - Yehui Wang
 - Matt Germonprez 
+- Jun Zhong
 - Kevin Lumbard
 
 ### Amazing CHAOSS Project Contributors

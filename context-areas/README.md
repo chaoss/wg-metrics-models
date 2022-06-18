@@ -42,8 +42,8 @@ Definition: The capability of an ecosystem to face and survive disruptions.
 #### Software Artifact
 #### Social
 * [community-activity](../metrics-model-libs/community-activity)
-* [community-welcomingness](https://github.com/chaoss/wg-metrics-models/tree/main/implementations/community-welcomingness)
-* [funding](https://github.com/chaoss/wg-metrics-models/tree/main/implementations/funding)
+* [community-welcomingness](../metrics-model-libs//community-welcomingness)
+* [funding](../metrics-model-libs/funding)
 ### **Niche**:
 Definition: The capacity to create meaningful diversity and thereby novel capabilities.
 #### Software Artifact

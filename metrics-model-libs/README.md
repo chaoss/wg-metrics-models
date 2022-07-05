@@ -1,6 +1,5 @@
 # Metrics Models Mindmap
 
-
 ![Metrics Models Mindmap](https://github.com/chaoss/wg-metrics-models/tree/main/metrics-model-libs/libs-mindmap/mindmap.svg)
 
 # metrics-model-libs Structure
@@ -38,13 +37,13 @@ The detailed definition template can be found [here](https://github.com/chaoss/c
 
 The goal of this is to implement the metrics models with real-world community data set. 
 You may have multiple implementations for the same Metrics Model:
-* implementation A : Implementation in field A with real world data, for exmaple linux distributions communities. 
-* implementation B : Implementation in field B with real world data, for example AI platform communities.
+* Implementation A : Implementation in field A with real world data, for exmaple linux distributions communities. 
+* Implementation B : Implementation in field B with real world data, for example AI platform communities.
 
-For each implementaion, it includes three parts:
-* data : real-world community data set. It should be some clean data provided by Augur or Grimoirelab(or any other data handling tools ), that is easily handled by Jupyter. 
-* algorithm : For each single metric model, it would have a set of metrics. The goal of algorithm is to find a single value that represents all the metrics for a metrics model in a meanningful way.   
-* data-insight : Provide text and visualizations in Jupyter notebook that describes how the unified metrics model is used to draw insights from the evaluated community or communities.
+For each implementaion, there are three parts:
+* data : Real-world community data set. It should be some clean data provided by Augur or Grimoirelab (or any other data handling tools), that is easily handled by Jupyter. 
+* algorithm : Each single metrics model contains a set of metrics. The goal of algorithm is to find a single value that represents all the metrics for a metrics model in a meanningful way.   
+* data-insight : Provide text and visualizations via Jupyter notebook that describes how the  metrics model is used to draw insights from the evaluated community or communities.
 
 
 # Metrics Model Steps Forward

@@ -1,6 +1,6 @@
 # Metrics Models Mindmap
 
-![Metrics Models Mindmap](https://github.com/chaoss/wg-metrics-models/tree/main/metrics-model-libs/libs-mindmap/mindmap.svg)
+[Metrics Models Libs Mindmap](https://chaoss.github.io/wg-metrics-models/libs-mindmap/mindmap)
 
 # metrics-model-libs Structure
 

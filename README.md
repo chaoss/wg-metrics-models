@@ -41,7 +41,6 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
 - Yehui Wang
 - Matt Germonprez 
 - Jun Zhong
-- Kevin Lumbard
 
 ### Amazing CHAOSS Project Contributors
 

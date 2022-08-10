@@ -5,7 +5,6 @@
 - [Introduction](#introduction)
 - [Participate](#participate)
 - [Contributing](#contributing)
-- [Metrics](#metrics)
 - [Contributors](#contributors)
 - [License](#license)
 
@@ -42,7 +41,7 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
 - Matt Germonprez 
 - Jun Zhong
 
-### Amazing CHAOSS Project Contributors
+### Contributors
 
 Link to [contributors](https://chaoss.community/metrics/#user-content-chaoss-contributors-include) listed on the website.
 

@@ -55,7 +55,7 @@ Make your change and commit the change (NOTE: with `-s` you sign-off on each com
 
 If this step sounds a bit difficult, the maintainers of the repository can help with this process when merging the PR.
 
-3. **Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your changes and lets the project lead know you are proposing changes.
+3. **Submit a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests)**. This opens a discussion around your changes and lets the project lead know you are proposing changes.
 
 ```
 

@@ -1,5 +1,8 @@
 # CHAOSS DEI Event Badging
 
+Context Tags: Event
+Keyword Tags: Model, Badging
+
 # Why It Matters
 As an event organizer, you would like to signal your attention to diversity, equity, and inclusion at your events. This metrics model is used to develop and recognize diversity, equity, and inclusion efforts within open source community conferences. This metrics model is publicly deployed and available at: CHAOSS DEI Event Badging Program.
 

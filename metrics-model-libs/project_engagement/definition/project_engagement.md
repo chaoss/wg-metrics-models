@@ -10,33 +10,34 @@ Project engagement is a critical component of the sustainability of any open sou
 
 # Metrics in the Metrics Model 
 
-- Change Requests Accepted
-pull_request_count: Accepted change requests are those that end with the corresponding changes finally merged into the code base of the project. Accepted change requests can be linked to one or more changes to the source code, those corresponding to the changes proposed and finally merged. 
+- [Change Requests Accepted](https://chaoss.community/metric-change-requests-accepted/)  
+change_request_count: Accepted change requests are those that end with the corresponding changes finally merged into the code base of the project. Accepted change requests can be linked to one or more changes to the source code, those corresponding to the changes proposed and finally merged. 
 
-- Committers
-D0_count: Contributors who have given the project a star, or are watching or have forked the repository.
-D1_count: Contributors who have created issues, made comments on an issue, or performed a code review.
-D2_count: Contributors who have created a merge request and successfully merged code.
+- [Committers](https://chaoss.community/metric-committers/)  
+D0_count: Contributors who have given the project a star, or are watching or have forked the repository.  
+D1_count: Contributors who have created issues, made comments on an issue, or performed a code review.  
+D2_count: Contributors who have created a merge request and successfully merged code.  
 
-- Contributors
-contribute_count: People who contribute to the project in a number of different ways. 
+- [Contributors](https://chaoss.community/metric-contributors/)  
+contributor_count: People who contribute to the project in a number of different ways. 
 
-- Issues Closed
+- [Issues Closed](https://chaoss.community/metric-issues-closed/)  
 closed_issues_count: Issues closed are those that changed to state closed during a certain period.
 
-- Issues Updated
+- Issues Updated  
 updated_issues_count: Issues updated are those that updated during a certain period.
 
-- Issue Comments
+- Issue Comments  
 issue_comment_frequency: Projects discuss how they are fixing bugs, or adding new features, in tickets in the issue tracking system. Each of these tickets (issues) are opened (submitted) by a certain person, and are later commented and annotated by many others.
 
-- Organizational Diversity
+- [Organizational Diversity](https://chaoss.community/metric-organizational-diversity/)  
 org_count: Organizational diversity expresses how many different organizations are involved in a project and how involved different organizations are compared to one another.
 
-- Review Cycle Duration within a Change Request
+- [Review Cycle Duration within a Change Request](https://chaoss.community/metric-review-cycle-duration-within-a-change-request/)  
 code_review_frequency: A change request is based on one or more review cycles. Within a review cycle, one or more reviewers can provide feedback on a proposed contribution. The duration of a review cycle, or the time between each new iteration of the contribution, is the basis of this metric.
 
-- meeting_count:Count of meeting attendee  during the year
+- Meeting Count  
+meeting_count:Count of meeting attendee  during the year
 maintainer_count: Count of maintainer during the year. How many maintainers have been making contributions to the project. 
 
 # Data Insights 
@@ -123,9 +124,3 @@ Jun Zhong
 Matt Germonprez
 Yehui Wang 
 Liang Wang
-
-
-
- 
-
-

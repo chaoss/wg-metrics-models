@@ -10,7 +10,7 @@ metrics-model-libs is used to store all the metrics models, following the struct
 metric-model-libs
 └───Model A 
 |   |   definition
-|   |   implementations
+|   |   implementations (optional)
 |   |   |   implementation A 
 |   |   |   |   algorithm
 |   |   |   |   data-insight
@@ -21,10 +21,10 @@ metric-model-libs
 |   |   |   |   data
 └───Model B
 |   |   definition
-|   |   implementations
+|   |   implementations(optional)
 └───Model C
 |   |   definition
-|   |   implementations
+|   |   implementations(optional)
 ```
 
 
@@ -33,7 +33,7 @@ metric-model-libs
 
 The detailed definition template can be found [here](https://github.com/chaoss/community/blob/main/community-resources/templates/metrics-model-template.md)
 
-# Metrics Model Implementations
+# Metrics Model Implementations(optional)
 
 The goal of this is to implement the metrics models with real-world community data set. 
 You may have multiple implementations for the same Metrics Model:

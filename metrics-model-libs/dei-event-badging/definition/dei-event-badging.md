@@ -1,6 +1,6 @@
 # CHAOSS DEI Event Badging
 
-Context Tags: Event
+Context Tags: Event  
 Keyword Tags: Model, Badging
 
 # Why It Matters

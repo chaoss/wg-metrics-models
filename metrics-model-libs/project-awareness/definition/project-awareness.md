@@ -15,7 +15,7 @@ Project awareness may be used as a proxy for understanding project economic valu
 - [Burstiness](https://chaoss.community/metric-burstiness/)
 - [Contributors](https://chaoss.community/metric-contributors/)
 - [Organizational Diversity](https://chaoss.community/metric-organizational-diversity/) 
-- Stars, badges, likes, thumbs up, thumbs down, followers, watcher, Downloads (Not all of these metrics are  defined in CHAOSS and can be easily obtained through APIs of different platforms)
+- Stars, badges, likes, thumbs up, thumbs down, followers, watcher, Downloads
 - Social Media Mentions/Followers
 - Installations
 

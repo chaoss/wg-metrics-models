@@ -52,7 +52,7 @@ We counted metric model values every week, the value range is between 0 and1. We
 
 Community B, as a young community, shows fast growth from community service and support perspective, but still there are some gaps compared to Community A. In order to get deeper insights, we needed to check the result of each specific metric.
 
-![Model Visual](https://Holder1.png)
+![Insights from Metric Model](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/community-service-and-support/images/1.jpg)
 
 # Metric Specific Insights Drawn from the Metrics Model
 
@@ -60,31 +60,34 @@ Community B, as a young community, shows fast growth from community service and 
 
 There are two reasons that promote us to choose updated issues count instead of closed issues. First, issues have many different types, like bugs, feature requirements, users’ questions, and CVEs. Only specific types of issues have to be resolved very quickly, like CVEs. For the rest of the types of issues, we need to communicate with issue creators several times to better understand the detailed information. Also, if it is a requirement, from accept to solve, it is following the release plan, which would take a couple of months. Second, from the issues updated count, we can monitor the activity of issue handling service and support. Issue updates can also include reopening of issues, indicating attentiveness to changes in understanding of issues. Community A’s (blue) updated issue count keeps increasing in the past 6 years, showing a steady state of prosperity. Community B (red) shows fast growth of updated issue count. 
 
-![Model Visual](https://Holder2.png)
+![Metrics Model Updated Issues Count](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/community-service-and-support/images/2.jpg)
 
 ## Change Requests Accepted and Change Requests Declined 
 The more code contributions, the more change requests that can be  closed (accepted or declined). This indicates that the communities are actively attending to change requests. Both communities have a large number of accepted or declined changed requests in each period. From this point of view, both communities are doing very well.  
 
-![Model Visual](https://Holder3.png)
+![Metrics Model Change Requests Accepted and Change Requests Declined](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/community-service-and-support/images/3.jpg)
 
 ## Issue Response Time  
 When we observe the issue's first response average time, we found a negative correlation of this metric with updated issue counts. So we put two graphs together to make it more clear. The shorter the response time, the greater the number of issue updates. Many other communities also show such negative correlation between these two metrics. 
 
-![Model Visual](https://Holder4.png)
+![Metrics Model Issue Reponse Time](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/community-service-and-support/images/4.jpg)
 
 ## Issue Age
 Average/Median processing time (days) for new Issues created in the last 90 days, including closed issues and unresolved issues. In this metric, we focus on the bug/cve related issues that should be solved ASAP. But how to distinguish these kinds of bugs in the different communities is a problem that is unsolved. Usually they are not using the common labels to mark the issue types. So for this metric, we are not going to analyze these two communities for now. 
 
-![Model Visual](https://Holder5.png)
+![Metrics Model Issue Age](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/community-service-and-support/images/5.jpg)
 
 ## Change Request Open Time
 We are seeking for the change request fast close, including code merged or rejected. Otherwise the longer it takes for a change request to be resolved, the greater the risk that merge-conflict will occur, while other change requests that depend on it will also be stalled. From the graph below, we can see Community B has a big room for improvement in the terms of pr open time. 
 
-![Model Visual](https://Holder6.png)
+![Metrics Model Change Request Open Time](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/community-service-and-support/images/6.jpg)
 
 # Issue Comment Count and Change Request Reviews
 We put these two metrics together, that do not take the author into account. They are all related to contributors' involvement.
 
+![Metrics Model Issue Comment Count and Change Request Reviews](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/community-service-and-support/images/7.jpg)
+
+![Metrics Model Issue Comment Count and Change Request Reviews](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/community-service-and-support/images/8.jpg)
 
 # Contributors
 - Yehui Wang

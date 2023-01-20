@@ -10,16 +10,16 @@ Funding has become an important part of open source projects. This can be in the
 - As a project maintainer, core contributors who are not compensated are less likely to maintain quality contributions. 
 
 # Metrics in the Metrics Model 
-* [Contribution Attribution](https://chaoss.community/metric-contribution-attribution/) 
+* [Contribution Attribution](https://chaoss.community/?p=3616)
     * What is the ratio of volunteer work, sponsored work, and blended work?
     * How many contributions are sponsored?
     * Who is sponsoring the contributions?
     * What types of contributions are sponsored?
-* [Organizational Influence](https://chaoss.community/metric-organizational-influence/) 
-* [Types of contributions](https://chaoss.community/metric-types-of-contributions/) 
+* [Organizational Influence](https://chaoss.community/?p=3560)
+* [Types of contributions](https://chaoss.community/?p=3432)
     * By this metric, we could see the number of organizations of different type of contributions.
-* [Labor Investment](https://chaoss.community/metric-labor-investment/) 
-* [Organizational Diversity](https://chaoss.community/metric-organizational-diversity/) 
+* [Labor Investment](https://chaoss.community/?p=3559)
+* [Organizational Diversity](https://chaoss.community/?p=3464)
     * Organizational diversity expresses how many different organizations are involved in a project and how involved different organizations are compared to one another.
 
 

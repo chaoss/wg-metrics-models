@@ -12,17 +12,17 @@ As an event organizer, you would like to signal your attention to diversity, equ
 - Event Sponsors: It is important to know that events your organization is sponsoring are attentive to issues related to diversity, equity, and inclusion. 
 
 # Metrics in the Metrics Model
-- [Code of Conduct at Event](https://chaoss.community/metric-code-of-conduct-at-event/)
+- [Code of Conduct at Event](https://chaoss.community/?p=3492)
 Having a code of conduct represents an attention to people who would like to report inappropriate behavior.
-- [Diversity Access Tickets](https://chaoss.community/metric-diversity-access-tickets/)
+- [Diversity Access Tickets](https://chaoss.community/?p=3491)
 Diversity access tickets signal an attention to support people who may not otherwise have an opportunity to attend your event.
-- [Family Friendliness](https://chaoss.community/metric-family-friendliness/)
+- [Family Friendliness](https://chaoss.community/?p=3495)
 Family Friendliness indicates a welcoming space who may have children or be in caregiver roles. 
-- [Event Demographics](https://chaoss.community/metric-event-demographics/)
+- [Event Demographics](https://chaoss.community/?p=3507)
 Event demographics indicates that the event organizing staff is attentive and responsive to both speaker and attendee demographics.
-- [Inclusive Experience at Events](https://chaoss.community/metric-inclusive-experience-at-event/)
+- [Inclusive Experience at Events](https://chaoss.community/?p=3493)
 Attention to attendees and speakers with regard to how they are feeling at the event and giving them access to resources for any needs they have are best practices at an event.
-- [Time Inclusion for Virtual Events](https://chaoss.community/metric-time-inclusion-for-virtual-events/) 
+- [Time Inclusion for Virtual Events](https://chaoss.community/?p=3494)
 Attention to time inclusion for virtual events indicates an attention to supporting a global community of open source participants. 
 
 # Data Insights

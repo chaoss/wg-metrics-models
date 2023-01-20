@@ -10,11 +10,11 @@ Development responsiveness reflects a number of things relevant to the capacity 
 - As an OSPO manager (or someone in charge of OS standards at a company/institution/org), I want to identify inactive projects for possible archiving, or remedial/supplementary support. 
 
 # Metrics in the Metrics Model
-- [Review Cycle Duration within a Change Request](https://chaoss.community/metric-review-cycle-duration-within-a-change-request/) 
+- [Review Cycle Duration within a Change Request](https://chaoss.community/?p=3445)
     - A change request is based on one or more review cycles. Within a review cycle, one or more reviewers can provide feedback on a proposed contribution. The duration of a review cycle, or the time between each new iteration of the contribution, is the basis of this metric.
-- [Change Request Duration](https://chaoss.community/metric-change-requests-duration/) 
+- [Change Request Duration](https://chaoss.community/?p=3587)
     -  The change request duration is the duration of the period since the change request started, to the moment it ended (by being accepted and being merged in the code base). This only applies to accepted change requests.
-- [Issue Response Time](https://chaoss.community/metric-issue-response-time/) 
+- [Issue Response Time](https://chaoss.community/?p=3631)
     -  Issues  are the central process of accepting code contributions.  Matters of responsiveness can be traced to urgency, maintainer availability, timezone and other influencers but ultimately reflects the reliability, and scalability of a project. This metric is an indication of how much time passes between the opening of an issue and a response from other contributors.
 - [Defect Resolution Time](https://chaoss.community/metric-defect-resolution-time/) 
     -  What is the median time between the report of a defect to the project (using the project’s defect reporting mechanism) and the time where the project resolves the defect? Note the resolution could be to address (resolve and merge) and make the update available to its users or explicitly choosing to not address (reject). 

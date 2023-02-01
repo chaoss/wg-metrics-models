@@ -10,18 +10,18 @@ Project engagement is a critical component of the sustainability of any open sou
 
 # Metrics in the Metrics Model 
 
-- [Change Requests Accepted](https://chaoss.community/metric-change-requests-accepted/)  
+- [Change Requests Accepted](https://chaoss.community/?p=3589)
 change_request_count: Accepted change requests are those that end with the corresponding changes finally merged into the code base of the project. Accepted change requests can be linked to one or more changes to the source code, those corresponding to the changes proposed and finally merged. 
 
-- [Committers](https://chaoss.community/metric-committers/)  
+- [Committers](https://chaoss.community/?p=3945)
 D0_count: Contributors who have given the project a star, or are watching or have forked the repository.  
 D1_count: Contributors who have created issues, made comments on an issue, or performed a code review.  
 D2_count: Contributors who have created a merge request and successfully merged code.  
 
-- [Contributors](https://chaoss.community/metric-contributors/)  
+- [Contributors](https://chaoss.community/?p=3467)
 contributor_count: People who contribute to the project in a number of different ways. 
 
-- [Issues Closed](https://chaoss.community/metric-issues-closed/)  
+- [Issues Closed](https://chaoss.community/?p=3633)
 closed_issues_count: Issues closed are those that changed to state closed during a certain period.
 
 - Issues Updated  
@@ -30,10 +30,10 @@ updated_issues_count: Issues updated are those that updated during a certain per
 - Issue Comments  
 issue_comment_frequency: Projects discuss how they are fixing bugs, or adding new features, in tickets in the issue tracking system. Each of these tickets (issues) are opened (submitted) by a certain person, and are later commented and annotated by many others.
 
-- [Organizational Diversity](https://chaoss.community/metric-organizational-diversity/)  
+- [Organizational Diversity](https://chaoss.community/?p=3464) 
 org_count: Organizational diversity expresses how many different organizations are involved in a project and how involved different organizations are compared to one another.
 
-- [Review Cycle Duration within a Change Request](https://chaoss.community/metric-review-cycle-duration-within-a-change-request/)  
+- [Review Cycle Duration within a Change Request](https://chaoss.community/?p=3445)
 code_review_frequency: A change request is based on one or more review cycles. Within a review cycle, one or more reviewers can provide feedback on a proposed contribution. The duration of a review cycle, or the time between each new iteration of the contribution, is the basis of this metric.
 
 - Meeting Count  

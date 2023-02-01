@@ -10,11 +10,11 @@ Project awareness may be used as a proxy for understanding project economic valu
 - As a person at an organization, I want to assess how much attention is being given to a project, either positively or negatively, and whether or not there have major increases or decreases in attention (e.g., from media coverage, high impact bugs, etc.)
 
 # Metrics in the Metrics Model 
-- [Clones](https://chaoss.community/metric-clones/)
-- [Technical Forks](https://chaoss.community/metric-technical-fork/) 
-- [Burstiness](https://chaoss.community/metric-burstiness/)
-- [Contributors](https://chaoss.community/metric-contributors/)
-- [Organizational Diversity](https://chaoss.community/metric-organizational-diversity/) 
+- [Clones](https://chaoss.community/?p=3429)
+- [Technical Forks](https://chaoss.community/?p=3431)
+- [Burstiness](https://chaoss.community/?p=3447)
+- [Contributors](https://chaoss.community/?p=3467)
+- [Organizational Diversity](https://chaoss.community/?p=3464)
 - Stars, badges, likes, thumbs up, thumbs down, followers, watcher, Downloads
 - Social Media Mentions/Followers
 - Installations

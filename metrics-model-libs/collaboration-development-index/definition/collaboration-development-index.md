@@ -1,10 +1,10 @@
-# Code Quality Guarantee
+# Collaboration Development Index
 
-Keyword Tag: 
-Context Tags:
+Keyword Tag: Metrics Model
+Context Tags: Community, Software, Ecosystem, Contributor
 
 # Why It Matters
-Code, as the final output of a project, is the essence of the entire community's contribution. Code quality guarantee is the measurement of how to guarantee software quality using multiple proxies.
+Open source projects, as a typical manifestation of human group intelligence, the ability to establish collaborative development management is a key element contributing to the success of the project. And code, as the final output of a project, is the essence of the entire community's contribution. So we evaluate how well the development process is managed and how well the community does collaborative development around a series of indirect metrics related to code contribution.
 
 # User Stories
 As a community manager, I want to observe the trend of software quality with version changes and what the root cause (good or bad reasons) may be in these changes. 

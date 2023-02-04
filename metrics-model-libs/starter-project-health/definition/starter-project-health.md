@@ -24,16 +24,17 @@ later.
 # Metrics in the Metrics Model
 
  - [Time to First Response](https://chaoss.community/?p=3448)
-   pr_time_to_first_response: Determine the amount of time between when a PR was
+   Determine the amount of time between when a PR was
 created and when it received the first response from a human.
 
-- [Time to Close](https://chaoss.community/?p=3446) pr_time_to_close: Determine
-  the amount of time between when a PR was created and when it was closed.
+- [Time to Close](https://chaoss.community/?p=3446) 
+  Determine the amount of time between when a PR was created and when it was closed.
 
-- [Bus Factor](https://chaoss.community/?p=3944) bus_factor: Determine the
+- [Bus Factor](https://chaoss.community/?p=3944) 
+  Determine the
   smallest number of people that make 50% of contributions
 
-- [Release Frequency](Link TBD after new metric is published) release_frequency:
+- [Release Frequency](Link TBD after new metric is published)
   Determine the frequency of project releases (including point releases with bug
 fixes)
 

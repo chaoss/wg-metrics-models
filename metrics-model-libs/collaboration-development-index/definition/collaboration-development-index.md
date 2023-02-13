@@ -13,12 +13,12 @@ As a user, I want to choose high quality software artifacts to meet the requirem
 
 # Metrics in the Metrics Model
 
-- [Contributors](https://chaoss.community/metric-contributors/)  
+- [Contributors](https://chaoss.community/?p=3467)
 -- Determine how many active change request creators, code reviewers, commit authors there are in the past 90 days.
 - Downloads  
 -- Determine the number of downloads of software artifacts per week.  
 -- Determine the number of hosts downloading software artifacts per week.
-- [Code Changes Commits](https://chaoss.community/metric-code-changes-commits/)  
+- [Code Changes Commits](https://chaoss.community/?p=4707)  
 -- Determine the average number of commits per week in the past 90 days.  
 -- Percentage of weeks with at least one code commit in the past 90 days.  
 -- Percentage of code repositories with at least one code commit in the last 30 days.  
@@ -28,12 +28,12 @@ As a user, I want to choose high quality software artifacts to meet the requirem
 -- Percentage of new code commits linked with change requests in the last 90 days.  
 - Ratio of Issues to Change Requests  
 -- Percentage of new change requests linked with issues in the last 90 days.  
-- [Change Request Reviews](https://chaoss.community/metric-change-request-reviews/)  
+- [Change Request Reviews](https://chaoss.community/?p=4712)  
 -- Percentage of recent 90-day code commits with at least one reviewer who is not the change request creator)  
 -- Percentage of individuals merging change requests and individuals who authored change requests who are not the same person in the last 90 days.  
-- [Technical Fork](https://chaoss.community/metric-technical-fork/)  
+- [Technical Fork](https://chaoss.community/?p=3431)  
 -- Determine the average number of fork counts per week in the past 90 days.  
-- [Code Changes Lines](https://chaoss.community/metric-code-changes-lines/)  
+- [Code Changes Lines](https://chaoss.community/?p=3591)  
 -- Determine the average number of lines touched (lines added plus lines removed) per week in the past 90 days.  
 
 # Data Insights

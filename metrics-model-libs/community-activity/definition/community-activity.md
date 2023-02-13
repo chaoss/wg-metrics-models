@@ -17,7 +17,7 @@ In order for an open source project to be sustainable, it must continue to be ma
 * [Contributors](https://chaoss.community/?p=3467)
     * contributor_count : Determine how many active commit authors, review participants, issue authors, and issue comments participants there are in the past 90 days.
     * maintainer_count : Determine the average number of maintainers per repository.
-* [Code Changes Commits](TBD)
+* [Code Changes Commits](https://chaoss.community/?p=4707)
     * commit_frequency : Determine the average number of commits per week in the past 90 days.
 * [Activity Dates and Times](https://chaoss.community/?p=3444)
     * updated_since : Determine the average time per repository since the repository was last updated (in months).
@@ -29,7 +29,7 @@ In order for an open source project to be sustainable, it must continue to be ma
     * meeting_attendee_count: Determine the average number of attendees per meeting
 * [Contribution Attribution](https://chaoss.community/?p=3616) 
     * org_count : Determine the number of distinct organizations that contributors belong to
-* [Change Request Reviews](TBD)
+* [Change Request Reviews](https://chaoss.community/?p=4712)
     * code_review_count : Determine the average number of review comments per pull request in the last 90 days
 * [Issues Closed](https://chaoss.community/?p=3633)
     * closed_issues_count : Determine the number of issues closed in the last 90 day

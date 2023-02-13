@@ -44,54 +44,54 @@ We chose two communities to evaluate the effectiveness of the code quality guara
 ## Insights Drawn from the Metrics Model
 We counted metric model values every week, the value range is between 0-1. At the beginning, the score of Community A is much higher than Community B. Community B's score has been steadily increasing upwards, until Sept 2020, when its score exceeds Community A. At that time, Community A's score starts to decline. In order to get deeper insights, we checked the result of each metric.
 
-![Metrics Model Insights](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/code-quality-guarantee/images/1.jpg)
+![Metrics Model Insights](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/collaboration-development-index/images/1.jpg)
 
 ## Metric Specific Insights Drawn from the Metrics Model
 
 ### Contributor Count
-In this metric, we put attention on the group of contributors that closed within change request and code commit efforts. Contributor count was further explored through filters on the [activity_dates_and_times](https://chaoss.community/metric-activity-dates-and-times/) metric. 
+In this metric, we put attention on the group of contributors that closed within change request and code commit efforts. Contributor count was further explored through filters on the [activity_dates_and_times](https://chaoss.community/?p=3444) metric. 
 
 Community A (purple) attracts many change request contributors at the beginning , the count is much more than Community B (blue). But both communities’ change request contributors count increased until around Sept 2020. From that time, active change request contributor count declined in Community A. Perhaps people left Community A and joined Community B. 
 
-![Metrics Model Contributor Count](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/code-quality-guarantee/images/2.jpg)
+![Metrics Model Contributor Count](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/collaboration-development-index/images/2.jpg)
 
 ## Commit Frequency 
-If we check the graphs of contributor count and commit frequency together, we find there are strong correlations. Commit frequency can be determined using an aggregation of the [code_changes_commits](https://chaoss.community/metric-code-changes-commits/) metric.
+If we check the graphs of contributor count and commit frequency together, we find there are strong correlations. Commit frequency can be determined using an aggregation of the [code_changes_commits](https://chaoss.community/?p=4707) metric.
 
-![Metrics Model Commit Frequency](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/code-quality-guarantee/images/3.jpg)
+![Metrics Model Commit Frequency](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/collaboration-development-index/images/3.jpg)
 
 ### Is Maintained 
 In this metric we explored the percentage of weeks with at least one code commit in the past 90 days. Because the repositories we choose are the key component, we find both repositories keep a high maintenance frequency. 
 
-![Metrics Model Is Maintained](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/code-quality-guarantee/images/4.jpg)
+![Metrics Model Is Maintained](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/collaboration-development-index/images/4.jpg)
 
 ### Commit and Change Request Linked Ratio
 
 In this metric, we would notice that many code commits are merged through change requests, or force push to the main branch. Over the last three years, Community B has significantly increased the transparency of its code contributions, as this ratio was always above 40%.
 
-![Metrics Model Commit and Change Request Linked Ratio](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/code-quality-guarantee/images/5.jpg)
+![Metrics Model Commit and Change Request Linked Ratio](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/collaboration-development-index/images/5.jpg)
 
 ### Change Request and Issues Linked
 
 In this metric, we introduce a new community C as the third reference, which is a young machine learning open source community, marked with red. We could find that both Community A and Community B did not have a regular rule about change requests and issues being linked in the contribution guideline. 
 
-![Metrics Model Change Request and Issues Linked](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/code-quality-guarantee/images/6.jpg)
+![Metrics Model Change Request and Issues Linked](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/collaboration-development-index/images/6.jpg)
 
 ### Code Review Ratio 
 
 If we check the graphs of change requests and issues linked with code review ratio, we could find their strong correlations. But does it really mean that Community A and Community B do not pay any attention to code review? We should also consider that both Community A and Community B are initialized by two companies that make most of the code contributions. So before they create change requests on the public code host platform, internal code reviews are likely to be completed. 
 
-![Metrics Model Code Review Ratio](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/code-quality-guarantee/images/7.jpg)
+![Metrics Model Code Review Ratio](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/collaboration-development-index/images/7.jpg)
 
 ### Code Merge Ratio 
 There are not so many differences between Community A and Community B, as both of them take this metric seriously. This may indicate the importance of this metric as related to code quality guarantee. 
 
-![Metrics Model Code Merge Ratio](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/code-quality-guarantee/images/8.jpg)
+![Metrics Model Code Merge Ratio](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/collaboration-development-index/images/8.jpg)
 
 ### Lines of Code Frequency
 The number of lines of source code correlates strongly with workload, but it correlates less with value created. Also, what form of code can be counted in lines of code is uncertain as we do not focus on the code form, but only use it to describe the workload, and its weight is low in the overall metric model.
 
-![Metrics Model Lines of Code Frequency](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/code-quality-guarantee/images/9.jpg)
+![Metrics Model Lines of Code Frequency](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/collaboration-development-index/images/9.jpg)
 
 # References
 - https://github.com/ossf/scorecard/blob/main/docs/checks.md 

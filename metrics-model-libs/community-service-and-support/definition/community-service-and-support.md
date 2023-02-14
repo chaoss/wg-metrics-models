@@ -28,7 +28,7 @@ The time it takes for a contribution to build
 What is the duration of time between the moment a change request starts and the moment it is accepted or closed?
 - Change Request Age
 Average/Median processing time (days) for new change requests created in the last 90 days, including closed/accepted change requests and unresolved change requests.
-- [Change Request Reviews](TBD)
+- [Change Request Reviews](https://chaoss.community/?p=4712)
 The average number of review comments per pull request created in the last 90 days
 - [Change Requests Declined](https://chaoss.community/?p=3588)
 Number of change requests declined in the last 90 days.

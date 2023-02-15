@@ -23,9 +23,7 @@ later.
 
 # Metrics in the Metrics Model
 
- - [Time to First Response](https://chaoss.community/?p=3448)
-   Determine the amount of time between when a PR was
-created and when it received the first response from a human.
+ - [Time to First Response](https://chaoss.community/?p=3448) Determine the amount of time between when an activity was opened (e.g. Issue or Change Request) and when it received the first response from a human.
 
 - [Time to Close](https://chaoss.community/?p=3446) 
   Determine the amount of time between when a PR was created and when it was closed.

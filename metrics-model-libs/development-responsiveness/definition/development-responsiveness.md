@@ -22,6 +22,7 @@ Development responsiveness reflects a number of things relevant to the capacity 
     -  Issues  are the central process of accepting code contributions.  Matters of responsiveness can be traced to urgency, maintainer availability, timezone and other influencers but ultimately reflects the reliability, and scalability of a project. This metric is an indication of how much time passes between the opening of an issue and a response from other contributors.
 - [Defect Resolution Duration](https://chaoss.community/?p=4727) 
     -  What is the median time between the report of a defect to the project (using the project’s defect reporting mechanism) and the time where the project resolves the defect? Note the resolution could be to address (resolve and merge) and make the update available to its users or explicitly choosing to not address (reject). 
+
 # Contributors
 - Emma Irwin 
 - Matt Germonprez 

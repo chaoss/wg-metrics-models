@@ -27,13 +27,18 @@ The Metric Model working group started in August of 2021.
 ### How to Join Us?
 
 - Link to the [Agenda/Meeting-Minutes](https://docs.google.com/document/d/1qE2duE73NbEOHzRRAbqgPSUSAfdH-AmvLruOu7uCIYg/edit) document
-- Link to the [Participate](https://chaoss.community/chaoss-calendar/) page on the website
+- Link to the [Calendar](https://chaoss.community/chaoss-calendar/) page on the website
 
 Link to [Code of Conduct](https://github.com/chaoss/governance/blob/master/code-of-conduct.md)
 
 ## Contributing
 
 See the [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
+
+### Maintainers
+
+- Yehui Wang
+- Matt Germonprez 
 
 ## License
 

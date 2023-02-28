@@ -37,6 +37,6 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
 
 ## License
 
-See [LICENSE](https://github.com/chaoss/wg-metrics-models/blob/main/LICENSE) file.
+See [LICENSE](LICENSE) file.
 
 Copyright © 2023 - CHAOSS, a Linux Foundation Project

@@ -26,8 +26,8 @@ The Metric Model working group started in August of 2021.
 
 ### How to Join Us?
 
-- Link to the [Agenda/Meeting-Minutes](https://unomail-my.sharepoint.com/:w:/g/personal/mgermonprez_unomaha_edu/ETqNdkeZMZFJudarPZIbtsoB7YU3Oq4EAVOpoDycUge1-A?e=6IZyf0) document
-- Link to the [Participate](https://chaoss.community/participate/) page on the website
+- Link to the [Agenda/Meeting-Minutes](https://docs.google.com/document/d/1qE2duE73NbEOHzRRAbqgPSUSAfdH-AmvLruOu7uCIYg/edit) document
+- Link to the [Calendar](https://chaoss.community/chaoss-calendar/) page on the website
 
 Link to [Code of Conduct](https://github.com/chaoss/governance/blob/master/code-of-conduct.md)
 
@@ -39,17 +39,9 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
 
 - Yehui Wang
 - Matt Germonprez 
-- Jun Zhong
-
-### Contributors
-
-Link to [contributors](https://chaoss.community/metrics/#user-content-chaoss-contributors-include) listed on the website.
 
 ## License
 
 See [LICENSE](LICENSE) file.
 
-Copyright © 2022 - CHAOSS, a Linux Foundation Project
-
-
- 
+Copyright © 2023 - CHAOSS, a Linux Foundation Project

@@ -38,7 +38,7 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
 ### Maintainers
 
 - Yehui Wang
-- Matt Germonprez 
+- Jun Zhong
 
 ## License
 

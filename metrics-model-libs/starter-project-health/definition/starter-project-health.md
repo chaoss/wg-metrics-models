@@ -25,7 +25,7 @@ later.
 
  - [Time to First Response](https://chaoss.community/?p=3448) Determine the amount of time between when an activity was opened (e.g. Issue or Change Request) and when it received the first response from a human.
 
-- [Time to Close](https://chaoss.community/?p=3446) Determine the amount of time between when an activity (e.g. Issue or Change Request) was created and when it was closed.
+- [Change Request Closure Ratio](https://chaoss.community/?p=4834) Measure the ratio between the total number of open change requests during a time period versus the total number of change requests closed in that same period.
 
 - [Bus Factor](https://chaoss.community/?p=3944) 
   Determine the
@@ -103,7 +103,7 @@ trends.
 ![Time to First
 Response](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/starter-project-health/images/starter-project-health-time-to-first-response.png)
 
-### Time to Close
+### Change Request Closure Ratio
 
 It is important to keep up with PRs and resolve them in a
 timely manner so that contributors can get a timely resolution on their
@@ -112,8 +112,7 @@ the dotted green line shows closed PRs, so either merged or closed without
 merge. In this case, the project is consistently doing a good job of closing PRs
 without falling behind.
 
-![Time to
-Close](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/starter-project-health/images/starter-project-health-time-to-close.png)
+![Change Request Closure Ratio](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/starter-project-health/images/starter-project-health-change-request-closure-ratio.png)
 
 ### Release Frequency
 

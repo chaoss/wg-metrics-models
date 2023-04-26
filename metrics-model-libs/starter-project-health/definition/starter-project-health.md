@@ -31,7 +31,7 @@ later.
   Determine the
   smallest number of people that make 50% of contributions
 
-- [Release Frequency](https://chaoss.community/?p=3944)
+- [Release Frequency](https://chaoss.community/?p=4765)
   Determine the frequency of project releases (including point releases with bug
 fixes)
 

@@ -11,18 +11,18 @@ Individual developers want to understand code quality or community risks related
 # Metrics in the Metrics Model
 
 - Code Quality
-  - [Defect Resolution Time](https://chaoss.community/metric-defect-resolution-time/)
-  - [Test Coverage](https://chaoss.community/metric-test-coverage/) 
+  - [Defect Resolution Duration](https://chaoss.community/?p=4727)
+  - [Test Coverage](https://chaoss.community/?p=3957) 
 
 - License Issues
-  - [License Coverage](https://chaoss.community/metric-license-coverage/)
-  - [License Declared](https://chaoss.community/metric-license-declared/)
-  - [OSI Approved Licenses](https://chaoss.community/metric-osi-approved-licenses/) 
+  - [License Coverage](https://chaoss.community/?p=3961)
+  - [License Declared](https://chaoss.community/?p=3963)
+  - [OSI Approved Licenses](https://chaoss.community/?p=3962) 
 
 - Risk assessment 
-  - [Bus Factor](https://chaoss.community/kb/metric-bus-factor/) 
-  - [Committers](https://chaoss.community/kb/metric-committers/) 
-  - [Elephant Factor](https://chaoss.community/kb/metric-elephant-factor/) 
+  - [Bus Factor](https://chaoss.community/?p=3944) 
+  - [Committers](https://chaoss.community/?p=3945)
+  - [Elephant Factor](https://chaoss.community/?p=3940) 
 
 # References
 [1] McDonald, N., & Goggins, S. (2013). Performance and participation in open source software on GitHub. CHI ’13 Extended Abstracts on Human Factors in Computing Systems on - CHI EA ’13, 139.  

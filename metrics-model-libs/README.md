@@ -31,7 +31,7 @@ metric-model-libs
 
 # Metrics Model Definitions
 
-The detailed definition template can be found [here](https://github.com/chaoss/community/blob/main/community-resources/templates/metrics-model-template.md)
+The detailed definition template can be found [here](https://github.com/chaoss/community/blob/main/community-templates/metrics-model-template.md)
 
 # Metrics Model Implementations(optional)
 

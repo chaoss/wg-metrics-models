@@ -36,12 +36,9 @@ Context before insights: “Viability” is a term that will have different thre
 
 Intended use of this metrics model is to feed into an overall viability determination. Every company, like with risk tolerance, will have different degrees of “viable” based on how the software is ultimately applied to the end users.
 
-## Validated by (Optional)
-
-## References
 
 ## Contributors
 
-Gary White
-Eric Sorenson
-Matt Germonprez
+- Gary White
+- Eric Sorenson
+- Matt Germonprez

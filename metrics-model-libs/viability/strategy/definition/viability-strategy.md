@@ -51,12 +51,8 @@ Intended use of this metrics model is to feed into an overall viability determin
 * [Release Frequency](https://chaoss.community/?p=4765)
     * While we may not consider release frequency to be within a threshold for a specific project – we do care that a project sticks to a frequency and we can rely on it for security updates / patches within those windows. This is somewhat a proxy for LTS / release strategy.
 
-## Validated by (Optional)
-
-## References
-
 ## Contributors
 
-Gary White
-Eric Sorenson
-Matt Germonprez
+- Gary White
+- Eric Sorenson
+- Matt Germonprez

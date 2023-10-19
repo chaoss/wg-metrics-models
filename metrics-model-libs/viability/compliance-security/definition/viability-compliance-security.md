@@ -64,12 +64,9 @@ Intended use of this metrics model is to feed into an overall viability determin
 * [Upstream Code Dependencies](https://chaoss.community/?p=3977)
     * Understanding what projects are involved with building a project is important not just to understand their age, but owning organizations and context around projects, as well as any vulnerability and licensing problems that might result downstream (in a project a prospective user is building)
 
-## Validated by (Optional)
-
-## References
 
 ## Contributors
 
-Gary White
-Eric Sorenson
-Matt Germonprez
+- Gary White
+- Eric Sorenson
+- Matt Germonprez

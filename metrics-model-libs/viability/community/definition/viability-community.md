@@ -58,12 +58,8 @@ Community metrics give an understanding of the adoption a particular project has
 * [Libyears](https://chaoss.community/kb/metric-libyears/)
     * This is a useful number to determine the overall risk profile of the project, as older code and older versions of dependencies are more likely to pose a risk to the organization. It’s worth noting that this is a shared metric with Governance, as the libyears are a shared responsibility between the dependencies themselves being updated, and that the project uses updated dependency versions.
 
-Validated by (Optional)
+### Contributors
 
-References
-
-Contributors
-
-Gary White
-Eric Sorenson
-Matt Germonprez
+- Gary White
+- Eric Sorenson
+- Matt Germonprez

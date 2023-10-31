@@ -17,7 +17,7 @@ The strategy of a project may feel less numerically distinct than many of the me
 ## Metrics in the Metrics Model
 
 * [Programming Language Distribution](https://chaoss.community/?p=3430)
-* [Bus Factor](https://chaoss.community/?p=3945)
+* [Bus Factor](https://chaoss.community/?p=3944)
 * [Elephant Factor](https://chaoss.community/?p=3940)
 * [Organizational Influence](https://chaoss.community/?p=3560)
 * [Release Frequency](https://chaoss.community/?p=4765)
@@ -42,7 +42,7 @@ Intended use of this metrics model is to feed into an overall viability determin
 
 * [Programming Language Distribution](https://chaoss.community/?p=3430)
     * For some organizations or preferences, languages will become a sticking point. For example: For an individual contributor who knows Go very well, but not Haskell, a project written in Haskell would be less viable than one written in Go. The same follows for organizations and capabilities or common applications across languages. Viability here stems from criteria specific to any evaluator.
-* [Bus Factor](https://chaoss.community/?p=3945)
+* [Bus Factor](https://chaoss.community/?p=3944)
     * An low score on bus factor may indicate that a project is not durably maintained.. Smaller projects/organizations may feel more comfortable with a bus factor of 2, while larger organizations would expect bus factors to be much higher before they consider projects to be viable.
 * [Elephant Factor](https://chaoss.community/?p=3940)
     * Like bus factor, but with some extra flavor. Certain organizations may determine that competing organizations have too much influence for them to consider a project viable. If a project is almost completely influenced by one’s competitor, you may consider using that project would introduce a high degree of business risk. .

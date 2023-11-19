@@ -69,7 +69,7 @@ components.
 
 It is also important to keep in mind that automation and bot activity can
 influence the usefulness of several metrics in this model, in particular Time to
-First Response and Time to Close. These metrics are only applicable when these
+First Response and Change Request Closure Ratio. These metrics are only applicable when these
 activities are primarily driven by humans, not automated responses. Likewise,
 the Release Frequency metric depends on whether / how releases are published,
 since informational repositories might not have any releases at all, and some

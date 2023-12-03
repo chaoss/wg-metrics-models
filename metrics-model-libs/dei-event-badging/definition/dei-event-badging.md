@@ -47,3 +47,5 @@ As a result of the badging review process, event attendees can best understand h
 - Elizabeth Barron 
 - Sean Goggins 
 
+
+**To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=4719**

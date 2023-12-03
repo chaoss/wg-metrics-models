@@ -97,3 +97,6 @@ We put these two metrics together, that do not take the author into account. The
 - Shengbao Li
 - Matt Germonprez
 - Sean Goggins
+
+
+**To reference this metric in software or publications please use this stable URL:https://chaoss.community/?p=4740**

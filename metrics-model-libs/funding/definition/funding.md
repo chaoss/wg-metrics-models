@@ -30,3 +30,6 @@ Funding has become an important part of open source projects. This can be in the
 - Matt Germonprez
 - Yehui Wang
 - Chenqi Shan
+
+
+**To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=4748**

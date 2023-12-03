@@ -42,3 +42,6 @@ Intended use of this metrics model is to feed into an overall viability determin
 - Gary White
 - Eric Sorenson
 - Matt Germonprez
+
+
+**To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=5411**

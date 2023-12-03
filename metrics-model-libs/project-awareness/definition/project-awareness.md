@@ -33,3 +33,6 @@ Project awareness may be used as a proxy for understanding project economic valu
 - Benjamin Mako Hill
 - Kevin Lumbard
 - Sean Goggins
+
+
+**To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=4752**

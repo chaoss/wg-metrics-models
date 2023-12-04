@@ -40,3 +40,6 @@ Burnout is a condition of mental, emotional, and physical exhaustion resulting f
 - Lucas Gonze
 - Jun Zhong
 - Yehui Wang
+
+
+**To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=4761**

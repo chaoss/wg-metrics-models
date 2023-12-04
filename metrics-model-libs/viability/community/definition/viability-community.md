@@ -63,3 +63,6 @@ Community metrics give an understanding of the adoption a particular project has
 - Gary White
 - Eric Sorenson
 - Matt Germonprez
+
+
+**To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=5403**

@@ -27,3 +27,6 @@ Development responsiveness reflects a number of things relevant to the capacity 
 - Emma Irwin 
 - Matt Germonprez 
 - Yehui Wang
+
+
+**To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=4723**

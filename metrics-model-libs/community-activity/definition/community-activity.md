@@ -96,3 +96,6 @@ We analyzed close_issue_count and update_issue_count together, because they had 
 * Matt Germonprez
 * Kevin Lumbard
 * Vinod Ahuja
+
+
+**To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=4736**

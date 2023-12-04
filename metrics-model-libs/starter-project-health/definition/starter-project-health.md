@@ -145,3 +145,4 @@ Frequency](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-l
 - Sophia Vargas
 
 
+**To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=4769**

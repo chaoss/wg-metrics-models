@@ -104,3 +104,6 @@ The number of lines of source code correlates strongly with workload, but it cor
 - Matt Germonprez
 - Sean Goggins
 - Vinod Ahuja
+
+
+**To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=4455**

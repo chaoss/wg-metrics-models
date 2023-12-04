@@ -32,3 +32,6 @@ Individual developers want to understand code quality or community risks related
 - Matt Germonprez 
 - Sean Goggins 
 - Elizabeth Barron
+
+
+**To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=5284**

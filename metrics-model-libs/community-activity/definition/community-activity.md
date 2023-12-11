@@ -47,7 +47,7 @@ For the detailed the implementations, you can refer to [community_activity.ipynb
 ## Insights Drawn from the Metrics Model
 We counted metric model values every week, with vertical lines representing version release dates. We can see that Community B's score is very stable, with an obvious pattern together with version release dates. Community A, as a young community, shows fast growth at the beginning, even exceeding Community B at some points, but there is no obvious pattern. In order to get deeper insights, we needed to check the result of each metric.
 
-![overall-result](https://github.com/chaoss/wg-metrics-models/tree/main/metrics-model-libs/community-activity/definition/images/overall-result.png)
+![overall-result](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/community-activity/definition/images/overall-result.png)
  
 
 ## Metric Specific Insights Drawn from the Metrics Model
@@ -56,33 +56,33 @@ We counted metric model values every week, with vertical lines representing vers
 
 The number of contributors (engaged these 200 repository contributions) in Community B is very stable,  Community A shows a surge, which means it successfully attracted many new contributors.
 
-![contributor_count](https://github.com/chaoss/wg-metrics-models/tree/main/metrics-model-libs/community-activity/definition/images/contributor_count.png)
+![contributor_count](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/community-activity/definition/images/contributor_count.png)
 
 ### commit_frequency
 
 The result of Commit Frequency shows high relevance with contributor count.  We found that value waves pattern of Community B have the same frequency with metric model overall score. 
 
-![commit_frequency](https://github.com/chaoss/wg-metrics-models/tree/main/metrics-model-libs/community-activity/definition/images/commit_frequency.png)
+![commit_frequency](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/community-activity/definition/images/commit_frequency.png)
 
 ### update_since
 
 Project B shows an obvious triangular wave pattern, you would find that almost all the repositories have been maintained before each version was released. However, Project A doesn’t show such capability. 
 
-![update_since](https://github.com/chaoss/wg-metrics-models/tree/main/metrics-model-libs/community-activity/definition/images/update_since.png)
+![update_since](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/community-activity/definition/images/update_since.png)
 
 ### comment_frequency
 
-For each single issue, Community A has approximately 5 comments andthe number is very stable. After investigation, we found that each repository in Community A has a stable group of contributors, they always provide support, and the discuss issue-related topics.
+For each single issue, Community A has approximately 5 comments and the number is very stable. After investigation, we found that each repository in Community A has a stable group of contributors, they always provide support, and they discuss issue-related topics.
 
-![comment_frequency](https://github.com/chaoss/wg-metrics-models/tree/main/metrics-model-libs/community-activity/definition/images/comment_frequency.png)
+![comment_frequency](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/community-activity/definition/images/comment_frequency.png)
 
 
 ### issue handling
 
 We analyzed close_issue_count and update_issue_count together, because they had a strong correlation that was reflected by the figure directly. Higher counts of issue handling indicates high contributor involvement. 
 
-![close_issue_count](https://github.com/chaoss/wg-metrics-models/tree/main/metrics-model-libs/community-activity/definition/images/close_issue_count.png)
-![update_issue_count](https://github.com/chaoss/wg-metrics-models/tree/main/metrics-model-libs/community-activity/definition/images/updated_issues_count.png)
+![close_issue_count](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/community-activity/definition/images/close_issue_count.png)
+![update_issue_count](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/community-activity/definition/images/updated_issues_count.png)
 
 # References
 

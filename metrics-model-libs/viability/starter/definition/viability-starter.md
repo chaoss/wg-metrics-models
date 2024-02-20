@@ -68,4 +68,4 @@ Intended use of this metrics model is to feed into an overall viability determin
 
 - Gary White
 
-**To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=5417**
+**To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=5608**

@@ -2,9 +2,9 @@
 
 ## Why It Matters
 
-Project Viability is an aggregate measurement of four categories: Compliance + Security, Governance, Community Engagement, and Strategy. Viability is relevant through the lens of any prospective user of a given project; specifically to provide an understanding of how viable a particular project may be for themselves. 
+Project Viability is an aggregate measurement of four categories: [Compliance + Security](https://chaoss.community/?p=5407), [Governance](https://chaoss.community/?p=5411), [Community Engagement](https://chaoss.community/?p=5403), and [Strategy](https://chaoss.community/?p=5416). Viability is relevant through the lens of any prospective user of a given project; specifically to provide an understanding of how viable a particular project may be for themselves. 
 
-The aggregate of four metrics, containing 24 distinct metrics in itself, may be more effort than can be reasonably expected on experiments to measure viability for interested products. Given that many successful projects start with experiments, we've created this starter model 
+The aggregate of four metrics, containing 24 distinct metrics in itself, may be more effort than can be reasonably expected on experiments to measure viability for interested products. Given that many successful projects start with experiments, we've created this starter model.
 
 ## User Stories
 
@@ -35,10 +35,10 @@ The aggregate of four metrics, containing 24 distinct metrics in itself, may be 
 In a highly regulated industry, companies like Verizon have interest in ensuring that their dependencies are well understood and within their licensing boundaries for use across a diverse product range. Our OSPO was particularly interested in determining how “viable” a project is for different product lines that Verizon offers, from web applications to products that are shipped to a home and maintained from afar for years on end.
 
 We took the larger, comprehensive model to capture Viability in a product, and distilled some of the most intuitive and important metrics to this starter model. It collects at least one metric from each pillar:
-* Community
-* Compliance/Security
-* Governance
-* Strategy
+* [Community](https://chaoss.community/?p=5403)
+* [Compliance/Security](https://chaoss.community/?p=5407)
+* [Governance](https://chaoss.community/?p=5411)
+* [Strategy](https://chaoss.community/?p=5416)
 
 This should provide a simpler basis to experiment with Viability and prove value in organizations curious about the framework for scrutinizing their open source dependencies.
 
@@ -57,9 +57,9 @@ Intended use of this metrics model is to feed into an overall viability determin
 * [Change Requests](https://chaoss.community/?p=3610)
     * Projects with very low count of change requests are unlikely to be keeping up with security updates – or with trends for development in their ecosystem. Change requests with high spikes of activity might also indicate that a project doesn’t provide sufficient checks to avoid unnecessary revisions/toil around the same feature.
 * [Change Request Closure Ratio](https://chaoss.community/?p=4834)
-    * This metrics allows us to compare the trend of new requests to their rate of closure. It gives us an idea of how well the project is maintained – or if more maintainers might be needed to keep up with demand for new features. The second point is why this is a cross between “Governance” and “Community”.
+    * This metric allows us to compare the trend of new requests to their rate of closure. It gives us an idea of how well the project is maintained – or if more maintainers might be needed to keep up with demand for new features. The second point is why this is a cross between “Governance” and “Community”.
 * [Libyears](https://chaoss.community/?p=3976)
-    * Per the objectives of libryear, “assist in the identification of dependencies that have a  higher probability of posing stability, security, and vulnerability risks to a project. A long-obsolete component is more likely to have publicly-known vulnerabilities”.
+    * Per the objectives of libyear, “assist in the identification of dependencies that have a  higher probability of posing stability, security, and vulnerability risks to a project. A long-obsolete component is more likely to have publicly-known vulnerabilities”.
 * [OSI Approved Licenses](https://chaoss.community/?p=3962)
     * Licenses that are found are incorporated in the OSI approved licenses framework. A good proxy for usable licenses within an organization.
 

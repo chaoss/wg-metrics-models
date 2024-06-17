@@ -26,7 +26,7 @@ It is important to ensure that your community is welcoming to newcomers as well 
 ## Stability
 - [CII Best Practices Badge](https://chaoss.community/metric-cii-best-practices-badge/)
 - [Test Coverage](https://chaoss.community/metric-test-coverage/)
-- [Bus Factor](https://chaoss.community/metric-bus-factor/)
+- [Contributor Absence Factor](https://chaoss.community/kb/metric-contributor-absence-factor/)
 - [Committers](https://chaoss.community/metric-committers/)
 - [Elephant Factor](https://chaoss.community/metric-elephant-factor/)
 

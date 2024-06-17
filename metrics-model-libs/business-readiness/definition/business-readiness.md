@@ -20,7 +20,7 @@ Individual developers want to understand code quality or community risks related
   - [OSI Approved Licenses](https://chaoss.community/?p=3962) 
 
 - Risk assessment 
-  - [Bus Factor](https://chaoss.community/?p=3944) 
+  - [Contributor Absence Factor](https://chaoss.community/?p=3944) 
   - [Committers](https://chaoss.community/?p=3945)
   - [Elephant Factor](https://chaoss.community/?p=3940) 
 

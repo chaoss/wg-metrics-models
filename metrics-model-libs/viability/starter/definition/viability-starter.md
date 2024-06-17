@@ -21,7 +21,7 @@ The aggregate of four metrics, containing 24 distinct metrics in itself, may be 
 
 ## Metrics in the Metrics Model
 
-* [Bus Factor](https://chaoss.community/?p=3944)
+* [Contributor Absence Factor](https://chaoss.community/?p=3944)
 * [Elephant Factor](https://chaoss.community/?p=3940)
 * [Change Requests](https://chaoss.community/?p=3610)
 * [Change Request Closure Ratio](https://chaoss.community/?p=4834)
@@ -50,10 +50,10 @@ Intended use of this metrics model is to feed into an overall viability determin
 
 
 
-* [Bus Factor](https://chaoss.community/?p=3944)
-    * An low score on bus factor may indicate that a project is not durably maintained. Smaller projects/organizations may feel more comfortable with a bus factor of 2, while larger organizations would expect bus factors to be much higher before they consider projects to be viable.
+* [Contributor Absence Factor](https://chaoss.community/?p=3944)
+    * An low score on contributor absence factor may indicate that a project is not durably maintained. Smaller projects/organizations may feel more comfortable with a contributor absence factor of 2, while larger organizations would expect contributor absence factors to be much higher before they consider projects to be viable.
 * [Elephant Factor](https://chaoss.community/?p=3940)
-    * Like bus factor, but with some extra flavor. Certain organizations may determine that competing organizations have too much influence for them to consider a project viable. If a project is almost completely influenced by one’s competitor, you may consider using that project would introduce a high degree of business risk.
+    * Like contributor absence factor, but with some extra flavor. Certain organizations may determine that competing organizations have too much influence for them to consider a project viable. If a project is almost completely influenced by one’s competitor, you may consider using that project would introduce a high degree of business risk.
 * [Change Requests](https://chaoss.community/?p=3610)
     * Projects with very low count of change requests are unlikely to be keeping up with security updates – or with trends for development in their ecosystem. Change requests with high spikes of activity might also indicate that a project doesn’t provide sufficient checks to avoid unnecessary revisions/toil around the same feature.
 * [Change Request Closure Ratio](https://chaoss.community/?p=4834)

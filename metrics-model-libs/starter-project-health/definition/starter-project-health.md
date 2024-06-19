@@ -27,7 +27,7 @@ later.
 
 - [Change Request Closure Ratio](https://chaoss.community/?p=4834) Measure the ratio between the total number of open change requests during a time period versus the total number of change requests closed in that same period.
 
-- [Bus Factor](https://chaoss.community/?p=3944) 
+- [Contributor Absence Factor](https://chaoss.community/?p=3944) 
   Determine the
   smallest number of people that make 50% of contributions
 
@@ -77,14 +77,14 @@ projects might make releases in various places (e.g., GitHub, PyPI).
 
 ## Metric Specific Insights Drawn from the Metrics Model 
 
-### Bus Factor 
+### Contributor Absence Factor 
 
-In this example, the bus factor is 5, since that is the smallest
+In this example, the contributor absence factor is 5, since that is the smallest
 number of people within the community who make up 50% of the commits, so this
 project would be likely to continue with minimal interruption if a couple of
 people won the lottery and moved on from the project.
 
-![Bus
+![Contributor Absence
 Factor](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/starter-project-health/images/starter-project-health-bus-factor.png)
 
 ### Time to First Response 

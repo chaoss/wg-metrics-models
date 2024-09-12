@@ -12,27 +12,62 @@ In order for an open source project to be sustainable, it must continue to be ma
 - As an OSPO or a program manager from a company, I want to collaborate with active communities, which may indicate that bug fixes and feature requirements could be solved efficiently. This is especially important, when I have multiple projects to choose from. 
 - As a contributor, I want to join a community which is more active, because I may get more support and the value I create is more visible.
 
+# Related Metrics Models
+- Collaboration Development Index Model
+- Community Service and Support Model
+- Organization Activity Model: A metrics model to measure organazation activity.
+- Contributor Persona Model
 
 # Metrics in the Metrics Model 
-* [Contributors](https://chaoss.community/?p=3467)
-    * contributor_count : Determine how many active commit authors, review participants, issue authors, and issue comments participants there are in the past 90 days.
-    * maintainer_count : Determine the average number of maintainers per repository.
-* [Code Changes Commits](https://chaoss.community/?p=4707)
-    * commit_frequency : Determine the average number of commits per week in the past 90 days.
-* [Activity Dates and Times](https://chaoss.community/?p=3444)
-    * updated_since : Determine the average time per repository since the repository was last updated (in months).
-    * created_since : Determine the average time per repository since a repository was created (in months).
-    * comment_frequency : Determine the average number of comments per issue in the last 90 days.
-    * updated_issues_count : Determine the number of issues updated in the last 90 days.
-    * recent_releases_count : Determine the number of releases in the last year
-    * meeting_count : Determine the number of meetings held in the last 90 days
-    * meeting_attendee_count: Determine the average number of attendees per meeting
-* [Contribution Attribution](https://chaoss.community/?p=3616) 
-    * org_count : Determine the number of distinct organizations that contributors belong to
-* [Change Request Reviews](https://chaoss.community/?p=4712)
-    * code_review_count : Determine the average number of review comments per pull request in the last 90 days
-* [Issues Closed](https://chaoss.community/?p=3633)
-    * closed_issues_count : Determine the number of issues closed in the last 90 day
+- Contributor Count
+    - Description: The number of active code commit authors, pr authors, review participants, issue authors, and issue comments participants over a certain period of time.
+    - Objectives: Open source projects are comprised of a number of different contributors. Recognizing all contributors to a project is important in knowing who is helping with such activities as code development, event planning, and marketing efforts.
+  - Implementation: $X=|\cup\{A_i\}|$.$A_i$=*a contributor who is active over a certain period of time*.
+- Updated Issues Count
+  - Description: The number of issues updated over a certain period of time.
+  - Objectives:
+  - Implementation: $X=A$, $A$=*The number of issues updated over a certain period of time*.
+- Recent Releases Count
+  - Description: The number of releases over a certain period of time.
+  - Objectives:
+  - Implementation: $X=A$, $A$=*The number of releases over a certain period of time*.
+- Updated Since
+  - Description: The average time per repository since the repository was last updated.
+  - Objectives:
+  - Implementation: $X=\frac{\sum A_i }{B}$, $A_i$=*The time of a repository since it was last updated, B=The number of repositories*.
+- Code Review Count
+  - Description: The average number of review comments per pull request created over a certain period of time.
+  - Objectives:
+    - To understand the nature of change request review practice within a repository, and across a collection of repositories.
+    - Change Request Reviews can help inform the quality of the software and the efficiency of development.
+    - Examining change request review processes and timeliness over time is helpful for characterizing the evolution of an open source software project.
+    - Exploration of Change Requests Reviews along with demographics of participants may highlight issues of DEI in a projects formal review process.
+  - Implementation: $X=\frac{A}{B}$, $A$=*The number of review comments over a certain period of time, B=The number of pull requests over a certain period of time*.
+- Organization Count
+  - Description: The number of organizations to which active code contributors belong over a certain period of time.
+  Objectives:
+  - Implementation: $X=A$, $A$=*The number of organizations to which active code contributors belong over a certain period of time*.
+- Commit Frequency
+  - Description: The average number of commits per week over a certain period of time.
+  - Objectives: Volume of coding activity. Code changes commits are a proxy for the activity in a project. By counting the code changes commits in the set of repositories corresponding to a project, you can have an idea of the overall coding activity in that project. Of course, this metric is not the only one that should be used to track volume of coding activity.
+  - Implementation: $X=\frac{A}{B}$, $A$=*The number of commits over a certain period of time, B=The number of weeks over a certain period of time*.
+- Issue Comment Frequency
+  - Description: The average number of comments per issue created over a certain period of time.
+  - Objectives:
+  - Implementation: $X=\frac{A}{B}$, $A$=*The number of comments over a certain period of time, B=The number of issues over a certain period of time.*
+- Maintainer Count
+  - Description: The average number of maintainers per repository.
+  - Objectives:
+  - Implementation: $X=\frac{A}{B}$, $A$=*The number of maintainers, B=The number of repositories*.
+- Meeting Count
+  - Description: The number of meetings over a certain period of time.
+  - Objectives:
+  - Implementation: $X=A$,$A$=*The number of meetings over a certain period of time*.
+- Meeting Attendee Count
+  - Description: The number of attendees per meeting over a certain period of time.
+  - Objectives:
+  - Implementation: $X=\frac{\sum A_i}{B}$, $A_i$=*The number of attendees of a meeting over a certain period of time, B=The number of meetings over a certain period of time*.
+
 
 
 # Data Insights 
@@ -96,6 +131,7 @@ We analyzed close_issue_count and update_issue_count together, because they had 
 * Matt Germonprez
 * Kevin Lumbard
 * Vinod Ahuja
+* Hongyun Chen
 
 
 **To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=4736**

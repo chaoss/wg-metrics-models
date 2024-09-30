@@ -82,7 +82,7 @@ projects might make releases in various places (e.g., GitHub, PyPI).
 In this example, the contributor absence factor is 5, since that is the smallest
 number of people within the community who make up 50% of the commits, so this
 project would be likely to continue with minimal interruption if a couple of
-people won the lottery and moved on from the project.
+people suddenly left the project.
 
 ![Contributor Absence
 Factor](https://github.com/chaoss/wg-metrics-models/blob/main/metrics-model-libs/starter-project-health/images/starter-project-health-bus-factor.png)

@@ -15,9 +15,6 @@ Project awareness may be used as a proxy for understanding project economic valu
 - [Burstiness](https://chaoss.community/?p=3447)
 - [Contributors](https://chaoss.community/?p=3467)
 - [Organizational Diversity](https://chaoss.community/?p=3464)
-- Stars, badges, likes, thumbs up, thumbs down, followers, watcher, Downloads
-- Social Media Mentions/Followers
-- Installations
 
 # References
 - [1] https://github.com/chaoss/wg-value/issues/85

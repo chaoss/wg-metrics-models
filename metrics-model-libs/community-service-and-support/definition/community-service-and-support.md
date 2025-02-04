@@ -18,16 +18,10 @@ Average/Median first comments response (in days) for new issues created in the l
 Average/Median time (days) that issues have been opened for issues created in the last 90 days. 
 - [Issue Resolution Duration](https://chaoss.community/?p=3630)
 Average/Median processing time (days) for new issues created in the last 90 days, including issues closed with and without resolution
-- Number of Issue Comments
-The average number of comments per issue created in the last 90 days
 - [Issues Active](https://chaoss.community/?p=3632)
 Number of issue updates in the last 90 days.
-- CI Build Time
-The time it takes for a contribution to build
 - [Change Requests Duration](https://chaoss.community/?p=3587)
 What is the duration of time between the moment a change request starts and the moment it is accepted or closed?
-- Change Request Age
-Average/Median processing time (days) for new change requests created in the last 90 days, including closed/accepted change requests and unresolved change requests.
 - [Change Request Reviews](https://chaoss.community/?p=4712)
 The average number of review comments per pull request created in the last 90 days
 - [Change Requests Declined](https://chaoss.community/?p=3588)
@@ -36,8 +30,6 @@ Number of change requests declined in the last 90 days.
 Number of change requests accepted in the last 90 days.
 - [Collaboration Platform Activity](https://chaoss.community/?p=3484)
 Number of new mail topics created in the last 90 days
-- Event Count
-The number of online and offline events held in the past 90 days, including conferences, meet-ups
 
 # Data Insights
 

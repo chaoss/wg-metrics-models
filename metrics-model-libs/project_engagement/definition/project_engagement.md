@@ -24,21 +24,11 @@ contributor_count: People who contribute to the project in a number of different
 - [Issues Closed](https://chaoss.community/?p=3633)
 closed_issues_count: Issues closed are those that changed to state closed during a certain period.
 
-- Issues Updated  
-updated_issues_count: Issues updated are those that updated during a certain period.
-
-- Issue Comments  
-issue_comment_frequency: Projects discuss how they are fixing bugs, or adding new features, in tickets in the issue tracking system. Each of these tickets (issues) are opened (submitted) by a certain person, and are later commented and annotated by many others.
-
 - [Organizational Diversity](https://chaoss.community/?p=3464) 
 org_count: Organizational diversity expresses how many different organizations are involved in a project and how involved different organizations are compared to one another.
 
 - [Review Cycle Duration within a Change Request](https://chaoss.community/?p=3445)
 code_review_frequency: A change request is based on one or more review cycles. Within a review cycle, one or more reviewers can provide feedback on a proposed contribution. The duration of a review cycle, or the time between each new iteration of the contribution, is the basis of this metric.
-
-- Meeting Count  
-meeting_count:Count of meeting attendee  during the year
-maintainer_count: Count of maintainer during the year. How many maintainers have been making contributions to the project. 
 
 # Data Insights 
 

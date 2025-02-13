@@ -26,7 +26,7 @@ The Metric Model working group started in August of 2021.
 
 ### How to Join Us?
 
-- Link to the [Agenda/Meeting-Minutes](https://docs.google.com/document/d/1qE2duE73NbEOHzRRAbqgPSUSAfdH-AmvLruOu7uCIYg/edit) document
+- Link to the [Agenda/Meeting-Minutes](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit?tab=t.kgfza561ethg) document
 - Link to the [Calendar](https://chaoss.community/chaoss-calendar/) page on the website
 
 Link to [Code of Conduct](https://github.com/chaoss/governance/blob/master/code-of-conduct.md)

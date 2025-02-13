@@ -92,11 +92,11 @@ Apply the criticality score algorithm in openEuler with the index, combining the
 
 ## Metric Specific Insights Drawn from the Metrics Model
 
-![active_ranking](./images/active_ranking.jpg)
+![active_ranking](https://raw.githubusercontent.com/chaoss/wg-metrics-models/main/metrics-model-libs/project_engagement/definition/images/active_ranking.jpg)
 
 Calculated SIG active value ranking
 
-![active_trend](./images/active_trend.jpg)
+![active_trend](https://raw.githubusercontent.com/chaoss/wg-metrics-models/main/metrics-model-libs/project_engagement/definition/images/active_trend.jpg)
 
 We can also dynamically view the changes in the value of the activity of each SIG. 
 

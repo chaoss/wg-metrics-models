@@ -15,19 +15,10 @@ As a user, I want to choose high quality software artifacts to meet the requirem
 
 - [Contributors](https://chaoss.community/?p=3467)
 -- Determine how many active change request creators, code reviewers, commit authors there are in the past 90 days.
-- Downloads  
--- Determine the number of downloads of software artifacts per week.  
--- Determine the number of hosts downloading software artifacts per week.
 - [Code Changes Commits](https://chaoss.community/?p=4707)  
 -- Determine the average number of commits per week in the past 90 days.  
 -- Percentage of weeks with at least one code commit in the past 90 days.  
--- Percentage of code repositories with at least one code commit in the last 30 days.  
-- CI Test  
--- Determine if the most recent (~30) commits contain CI tests  
-- Code Commit linked with Change Request  
--- Percentage of new code commits linked with change requests in the last 90 days.  
-- Ratio of Issues to Change Requests  
--- Percentage of new change requests linked with issues in the last 90 days.  
+-- Percentage of code repositories with at least one code commit in the last 30 days.   
 - [Change Request Reviews](https://chaoss.community/?p=4712)  
 -- Percentage of recent 90-day code commits with at least one reviewer who is not the change request creator)  
 -- Percentage of individuals merging change requests and individuals who authored change requests who are not the same person in the last 90 days.  
